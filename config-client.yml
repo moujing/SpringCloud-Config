@@ -4,7 +4,7 @@ spring:
 
 ---
 server:
-  port:8201
+  port: 8201
 #Spring配置
 spring:
   profiles: dev
@@ -19,7 +19,7 @@ eureka:
 
 ---
 server:
-  port:8202
+  port: 8202
 #Spring配置
 spring:
   profiles: test
